@@ -1,0 +1,20 @@
+{
+  "name": "mono-mcp",
+  "module": "index.ts",
+  "type": "module",
+  "scripts": {
+    "dev": "bun run src/main.ts"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.11.0",
+    "dayjs": "^1.11.13",
+    "ky": "^1.8.1",
+    "pino": "^9.6.0"
+  }
+}
