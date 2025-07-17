@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/clar1k-mono-mcp-badge.png)](https://mseep.ai/app/clar1k-mono-mcp)
+
 # Mono-MCP
 
 A Model Context Protocol (MCP) server for Monobank API integration, allowing AI assistants to retrieve bank statements and transaction data directly from Monobank accounts.
